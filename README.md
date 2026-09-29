@@ -1,4 +1,4 @@
-# Turbofan-RUL-Prediction
+# Aircraft-Engine-Remaining-Life-Prediction
 Remaining useful life (RUL) prediction of turbofan engines using LSTM (NASA C-MAPSS)
 This project implements a Deep Learning model based on Bidirectional LSTM networks to predict the Remaining Useful Life (RUL) of simulated aircraft engines, using NASA's C-MAPSS dataset.
 
